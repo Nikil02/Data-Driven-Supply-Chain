@@ -1,4 +1,4 @@
-# Supply-Chain-Analysis
+# Supply Chain Analysis
 A business intelligence project focused on supply chain optimization, order fulfilment rates, and city-wise demand trends using Power BI.
 
 ## Problem statement
