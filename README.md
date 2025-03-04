@@ -8,6 +8,11 @@ AtliQ Mart is facing a problem where a few key customers did not extend their an
 
 The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders daily against the target service level set for each customer.
 
+### Key Terms
+Line Fill Rate (LIFR): The percentage of individual order lines that are fully fulfilled out of the total order lines requested.
+
+Volume Fill Rate (VOFR): The percentage of the total quantity or volume of products fulfilled out of the total quantity or volume ordered across all order lines.
+
 ## DATA MODEL
 
 ![image](https://github.com/user-attachments/assets/154557b6-b24e-460c-b513-bf681da21039)
